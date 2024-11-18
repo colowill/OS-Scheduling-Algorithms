@@ -1,0 +1,73 @@
+Number of tasks: Enter task 0's pid, priority, cycles (space-separated): Enter task 1's pid, priority, cycles (space-separated): Enter task 2's pid, priority, cycles (space-separated): Enter task 3's pid, priority, cycles (space-separated): 
++-----+----------+--------+-------------------+
+| pid | priority | cycles | computed priority |
++-----+----------+--------+-------------------+
+| 15  | 0        | 40     | 0.000000          |
++-----+----------+--------+-------------------+
+| 13  | 1        | 80     | 0.012346          |
++-----+----------+--------+-------------------+
+| 14  | 40       | 60     | 0.655738          |
++-----+----------+--------+-------------------+
+| 12  | 50       | 100    | 0.495050          |
++-----+----------+--------+-------------------+
+
+Task 15 ran for 5 cycles.
+Task 15 ran for 5 cycles.
+Task 15 ran for 5 cycles.
+Task 15 ran for 5 cycles.
+Task 15 ran for 5 cycles.
+Task 15 ran for 5 cycles.
+Task 15 ran for 5 cycles.
+Task 15 ran for 5 cycles.
+Task 15 completed.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 ran for 5 cycles.
+Task 13 completed.
+Task 12 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 12 ran for 5 cycles.
+Task 14 ran for 5 cycles.
+Task 14 completed.
+Task 12 ran for 5 cycles.
+Task 12 completed.

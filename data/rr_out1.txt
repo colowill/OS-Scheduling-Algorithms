@@ -1,0 +1,94 @@
+Number of tasks: Enter task 0's pid, priority, cycles (space-separated): Enter task 1's pid, priority, cycles (space-separated): Enter task 2's pid, priority, cycles (space-separated): Enter task 3's pid, priority, cycles (space-separated): Enter task 4's pid, priority, cycles (space-separated): Enter task 5's pid, priority, cycles (space-separated): Enter task 6's pid, priority, cycles (space-separated): 
++-----+----------+--------+-------------------+
+| pid | priority | cycles | computed priority |
++-----+----------+--------+-------------------+
+| 1   | 5        | 10     | 0.454545          |
++-----+----------+--------+-------------------+
+| 2   | 16       | 17     | 0.888889          |
++-----+----------+--------+-------------------+
+| 3   | 8        | 24     | 0.320000          |
++-----+----------+--------+-------------------+
+| 4   | 1        | 36     | 0.027027          |
++-----+----------+--------+-------------------+
+| 5   | 99       | 100    | 0.980198          |
++-----+----------+--------+-------------------+
+| 6   | 1        | 62     | 0.015873          |
++-----+----------+--------+-------------------+
+| 0   | 26       | 80     | 0.320988          |
++-----+----------+--------+-------------------+
+
+Task 1 ran for 5 cycles.
+Task 2 ran for 5 cycles.
+Task 3 ran for 5 cycles.
+Task 4 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 1 ran for 5 cycles.
+Task 1 completed.
+Task 2 ran for 5 cycles.
+Task 3 ran for 5 cycles.
+Task 4 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 2 ran for 5 cycles.
+Task 3 ran for 5 cycles.
+Task 4 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 2 ran for 2 cycles.
+Task 2 completed.
+Task 3 ran for 5 cycles.
+Task 4 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 3 ran for 4 cycles.
+Task 3 completed.
+Task 4 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 4 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 4 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 4 ran for 1 cycles.
+Task 4 completed.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 6 ran for 2 cycles.
+Task 6 completed.
+Task 0 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 0 ran for 5 cycles.
+Task 0 completed.
+Task 5 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 5 ran for 5 cycles.
+Task 5 completed.
